@@ -23,4 +23,4 @@ One page website is also known as a single-page website. No matter whether you c
 * Open Your browser put inside browser http://localhost/srms
 
 
-
+![step 1](Libraries\Pictures\drive_c.png)
